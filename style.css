@@ -1,5 +1,14 @@
 /* Выполните оформление по заданию ПЗ №2 */
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background: #733dcf;
+    color: #a51414;;
 }
+h1 {
+    margin: 30px;
+    padding: 30px;
+    background-color: crimson;
+    border-radius: 15px;
+} 
